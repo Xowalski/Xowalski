@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Xowalski
-- 👀 I’m interested in .Net C# programming
-- 🌱 I’m currently learning Xamarin
-- 💞️ I’m looking to collaborate on entry/junior lvl in .net projects
+- 👀 I’m interested in .NET C# programming
+- 💞️ I’m looking to collaborate on entry/junior lvl in .NET projects
 - 📫 You can reach me via e-mail: konrad.kowalski1991@o2.pl
 
 <!---
